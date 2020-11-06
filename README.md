@@ -24,3 +24,6 @@ There are two Jupyter notebooks:
 - Mid_camp_lab_5.ipynb - complete analysis and model comparison.
 - Mid_camp_lab_final.ipynb - final, narrowed down file with just what it's needed to run the Random Forest Classifier.
 
+Instructions to run project:
+Open mid-bootcamp-project.sql in mysql server and run the create table and import data from creditcardmarketing.csv csv file in the Data Source folder.
+Once you have the data in the database, open Mid_camp_lab_final.ipynb in Jupyter notebooks and run the file.
