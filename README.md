@@ -14,7 +14,7 @@ Plan:
 
 We have created a database with SQL, and explored the data.
 
-We then Uploaded the database to a Jupyter notebook. 
+We then uploaded the database to a Jupyter notebook. 
 Checked for correlation, got rid of a few features we found irrelevant. We Tried different models (KNN, SMOT logistic Regression, Random Forrest...),
 and checked which one had the best accuracy, kappa score and recall. 
 
